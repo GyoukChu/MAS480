@@ -1,0 +1,17 @@
+Test: relative L2 error (S): 0.165607
+Test: relative L2 error (I): 0.235162
+Test: relative L2 error (R): 0.081308
+Test: relative L2 error (V): 0.056754
+Test: relative L2 error (D): 0.120900
+Test: relative L2 error (average): 0.131946
+Training: relative L2 error (S): 0.012285
+Training: relative L2 error (I): 0.120221
+Training: relative L2 error (R): 0.019563
+Training: relative L2 error (V): 0.049379
+Training: relative L2 error (D): 0.022832
+Training: relative L2 error (average): 0.044856
+alpha: 0.001296
+beta: 0.015045
+gamma: 0.003907
+delta: 0.001193
+sigma: 0.000469
